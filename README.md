@@ -1,7 +1,3 @@
-Here’s a **README-friendly** version of your problem statement with clear formatting and structure:  
-
----
-
 # **Customer Complaint Classification**  
 
 ## **Problem Statement**  
